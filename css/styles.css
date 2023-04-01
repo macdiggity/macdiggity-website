@@ -1,0 +1,100 @@
+h1{
+    color: white;
+    background-color: #00415a;
+    border-radius: 5px;
+    font-family:'Shantell Sans', Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    font-weight: bold;
+}
+h2{
+    color: white;
+    background-color: #00719c;
+    border-radius: 5px;
+    font-family:'Shantell Sans', Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+h3{
+    color: white;
+    background-color:#009bd6;
+    border-radius: 5px;
+    font-family:'Shantell Sans', Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+h4{
+    color: white;
+    background-color:#00b8ff;
+    border-radius: 5px;
+    font-family:'Shantell Sans', Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    padding-left: 2px;
+    font-style: italic;
+    text-decoration:none;
+}
+footer{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+a{
+    color: #00415a;
+}
+a:visited {
+    color: #7765E3;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: #00b8ff;
+}
+table{
+    table-layout: fixed;
+    width: 30%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+}
+thead th:nth-child(1) {
+    width: 50%;
+}
+thead th:nth-child(2) {
+    width: 50%;
+}
+th,td {
+    padding: 20px;
+}
+th {
+    letter-spacing: 2px;
+}
+td {
+    letter-spacing: 1px;
+}
+tbody td {
+    text-align: center;
+}
+tfoot th {
+    text-align: right;
+}
+
+thead, tfoot {
+    color: purple;
+}
+thead th,
+tfoot th,
+tfoot td {
+    background: linear-gradient( to bottom), 
+}
